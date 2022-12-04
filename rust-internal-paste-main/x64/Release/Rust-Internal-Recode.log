@@ -1,0 +1,5 @@
+﻿  dllmain.cpp
+  pattern.cpp
+     Creating library C:\Users\sonic\Desktop\11-23-22-tchook-main\rust-internal-paste-main\x64\Release\DxD2.lib and object C:\Users\sonic\Desktop\11-23-22-tchook-main\rust-internal-paste-main\x64\Release\DxD2.exp
+dllmain.obj : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+  Rust-Internal-Recode.vcxproj -> C:\Users\sonic\Desktop\11-23-22-tchook-main\rust-internal-paste-main\x64\Release\DxD2.dll
